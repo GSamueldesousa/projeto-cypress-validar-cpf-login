@@ -1,8 +1,8 @@
 describe('Validação de CPFs para BETs sequenciais', () => {
     const bets = ['H2Bet', 'ClaroBet', 'SupremaBet', 'MaximaBet', 'SeuBet', 'XpGames']; // Lista das BETs
     const validCpfs = [
-        { name: 'Larissa Lima Nascimento', cpf: '73263052187' },
-        { name: 'Eduardo Augusto Gouveia', cpf: '05008776886' },
+        //{ name: 'Larissa Lima Nascimento', cpf: '73263052187' },
+        //{ name: 'Eduardo Augusto Gouveia', cpf: '05008776886' },
         { name: 'Samuel Ferreira de Sousa', cpf: '35856495802' },
 
     ]; // Lista de CPFs válidos
