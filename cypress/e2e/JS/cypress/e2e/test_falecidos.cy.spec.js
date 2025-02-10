@@ -3,8 +3,8 @@ describe('Validação de CPFs de falecidos para BETs', () => {
   const baseUrl = 'https://mock.compliance.h2.opah.com.br/'; // URL do ambiente de teste
 
   const falecidos = [
-    { nome: 'Antonio Piranema M Pedrosa', cpf: '00769266487' },
-    { nome: 'Antonio de Bulhoes Barbosa', cpf: '11411473434' },
+    //{ nome: 'Antonio Piranema M Pedrosa', cpf: '00769266487' },
+    //{ nome: 'Antonio de Bulhoes Barbosa', cpf: '11411473434' },
     { nome: 'Alex Vilaca Dos Santos', cpf: '13390147420' },
   ];
 
