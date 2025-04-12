@@ -6,3 +6,4 @@
 2- Validar CPF Falecido
 3- Validar CPF de menor idade
 4- Validar CPF invalido
+#linguagem - JAVASCRIPT / PYTHON
